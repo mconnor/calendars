@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//KU Jayhawks Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KU Jayhawks Football 2026
+X-WR-TIMEZONE:America/Chicago
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:ku-football-2026-20260904-liu@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260904T190000
+DTEND;TZID=America/Chicago:20260904T230000
+SUMMARY:KU Football — HOME vs LIU
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. Final: Kansas 51\, LIU 6.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20260911-missouri@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260911T190000
+DTEND;TZID=America/Chicago:20260911T230000
+SUMMARY:KU Football — HOME vs Missouri
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. StorageMart Border Showdown. Final: Missouri 38\, Kansas 21.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20260919-arizona-state@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260919T110000
+DTEND;TZID=America/Chicago:20260919T150000
+SUMMARY:KU Football — NEUTRAL vs Arizona State
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:NEUTRAL game. Union Jack Classic. Neutral-site game. Final: Arizona State 24\, Kansas 17.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261003-middle-tennessee@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261003T110000
+DTEND;TZID=America/Chicago:20261003T150000
+SUMMARY:KU Football — HOME vs Middle Tennessee
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. Kickoff: 11:00 a.m. CT.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261010-utah@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:KU Football — AWAY at Utah
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+DESCRIPTION:AWAY game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261017-kansas-state@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:KU Football — AWAY at Kansas State
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+DESCRIPTION:AWAY game. Dillons Sunflower Showdown. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261024-baylor@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:KU Football — HOME vs Baylor
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261031-tcu@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:KU Football — AWAY at TCU
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
+DESCRIPTION:AWAY game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261107-ucf@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:KU Football — HOME vs UCF
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261114-west-virginia@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:KU Football — AWAY at West Virginia
+LOCATION:Milan Puskar Stadium\, Morgantown\, WV
+DESCRIPTION:AWAY game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261121-byu@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:KU Football — HOME vs BYU
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+DESCRIPTION:HOME game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ku-football-2026-20261128-oklahoma-state@calendar.local
+DTSTAMP:20260930T214027Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:KU Football — AWAY at Oklahoma State
+LOCATION:Boone Pickens Stadium\, Stillwater\, OK
+DESCRIPTION:AWAY game. Kickoff time TBA.\\nOfficial schedule: https://kuathletics.com/sports/football/schedule
+URL:https://kuathletics.com/sports/football/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
